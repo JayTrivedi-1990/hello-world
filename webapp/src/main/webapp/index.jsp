@@ -1,14 +1,14 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps </h1>
+    <h1>New user Register User for family Member </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Jay Name</b></label>
+    <label for="Name"><b>Enter New Friend List</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter Jay mobile</b></label>
+    <label for="mobile"><b>Enter friend Mobile Number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
