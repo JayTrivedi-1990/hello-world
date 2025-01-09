@@ -1,18 +1,18 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register User for family Member </h1>
+    <h1>WelCome to my family Member </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter New Friend List</b></label>
+    <label for="Name"><b>Enter New Family List</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter friend Mobile Number</b></label>
+    <label for="mobile"><b>Enter New member Mobile Number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Jay Email</b></label>
+    <label for="email"><b>Enter New member Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Be Happy Always </h1>
 
   
 </form>
