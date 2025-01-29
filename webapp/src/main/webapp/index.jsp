@@ -1,18 +1,18 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>WelCome to Jay Devops Project </h1>
+    <h1>WelCome to Devops Project </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Tool List</b></label>
+    <label for="Name"><b>Enter New Tool List</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter Member Mobile Number</b></label>
+    <label for="mobile"><b>Enter New Member Mobile Number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter New Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
